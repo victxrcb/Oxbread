@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm install *)",
-      "Bash(Copy-Item \"c:\\\\Users\\\\DELL\\\\Desktop\\\\projetos\\\\oxbread\\\\backend\\\\.env.example\" \"c:\\\\Users\\\\DELL\\\\Desktop\\\\projetos\\\\oxbread\\\\backend\\\\.env\")"
-    ]
-  }
-}
