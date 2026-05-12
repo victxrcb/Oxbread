@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "category": "burgers",
+    "name": "OxBread Classico",
+    "description": "Smash 150g, queijo cheddar americano, alface americana, tomate, maionese da casa, mostarda",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80",
+    "popular": true
+  },
+  {
+    "id": 2,
+    "category": "burgers",
+    "name": "Double Smash",
+    "description": "Dois smashes 150g, queijo cheddar duplo, bacon crocante, maionese defumada artesanal",
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&q=80",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "category": "burgers",
+    "name": "OxBacon",
+    "description": "Smash 150g, bacon artesanal, queijo gouda, cebola caramelizada, molho BBQ defumado",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "category": "burgers",
+    "name": "Picanha Smash",
+    "description": "Smash de picanha 180g, queijo prato derretido, vinagrete especial, farofa crocante",
+    "price": 42,
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 5,
+    "category": "burgers",
+    "name": "OxBread Especial",
+    "description": "Smash duplo 150g, cheddar, bacon, ovo frito, cebola crispy, molho especial da casa",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=500&q=80",
+    "popular": true
+  },
+  {
+    "id": 6,
+    "category": "burgers",
+    "name": "Veggie OxBread",
+    "description": "Blend de cogumelos e grão de bico, queijo vegano, alface, tomate, maionese vegana",
+    "price": 32,
+    "image": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 7,
+    "category": "drinks",
+    "name": "Limonada de Amora",
+    "description": "Amoras frescas, limão siciliano, açúcar, gelo e água com gás",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500&q=80",
+    "popular": true
+  },
+  {
+    "id": 8,
+    "category": "drinks",
+    "name": "Milkshake de Baunilha",
+    "description": "Sorvete artesanal de baunilha, leite integral, chantilly e calda de caramelo",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 9,
+    "category": "drinks",
+    "name": "Coca-Cola Lata",
+    "description": "350ml gelada",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 10,
+    "category": "drinks",
+    "name": "Suco de Maracujá",
+    "description": "Natural, 400ml, sem adição de açúcar",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 11,
+    "category": "drinks",
+    "name": "Água Mineral",
+    "description": "500ml sem gás ou com gás",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 12,
+    "category": "sides",
+    "name": "Batata Frita Clássica",
+    "description": "Batatas crocantes e douradas com sal grosso e ervas finas",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500&q=80",
+    "popular": false
+  },
+  {
+    "id": 13,
+    "category": "sides",
+    "name": "Batata com Cheddar e Bacon",
+    "description": "Batata frita coberta com cheddar cremoso e bacon crocante picado",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?w=500&q=80",
+    "popular": true
+  },
+  {
+    "id": 14,
+    "category": "sides",
+    "name": "Onion Rings",
+    "description": "8 anéis de cebola empanados crocantes servidos com molho ranch",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?w=500&q=80",
+    "popular": false
+  }
+]
